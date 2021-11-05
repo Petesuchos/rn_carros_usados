@@ -1,6 +1,7 @@
 # O dataset original
 
-O dataset original desse tutorial pode ser encontrado em
+O dataset usado neste tutorial é uma adaptação 
+do que pode ser encontrado em
 [100,000 UK Used Car Data set](https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes).
 
 Nesse repositório existem diversos arquivos `.csv` e escolhi 
